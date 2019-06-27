@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Debts</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signup_text">Don\'t have an account? Sign up here</string>
+    <string name="signin_text">Have an account? Sign in here</string>
+    <string name="register">Register</string>
+    <string name="total_debts">Total debts</string>
+    <string name="add_shopping">Add Debt</string>
+    <string name="name">Name</string>
+    <string name="amount">Amount</string>
+    <string name="note">Note</string>
+    <string name="save">Save</string>
+    <string name="update_delete">Delete / Update</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="amo">000</string>
+    <string name="title">Name</string>
+    <string name="date">26/6/2019</string>
+    <string name="logout">Logout</string>
+    <string name="credit">Credits</string>
+    <string name="debts">Debts</string>
+    <string name="total_credits">Total credits</string>
+    <string name="details">Details</string>
+    <string name="CreditsDebts">Credits - Debts</string>
+</resources>
